@@ -3,6 +3,7 @@ description: A Flutter OAuth package for performing user authentication against 
 version: 0.1.8
 author: Earlybyte Gmbh <info@earlybyte.ch>
 homepage: https://github.com/Earlybyte/aad_oauth
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
